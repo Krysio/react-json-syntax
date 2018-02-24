@@ -1,0 +1,24 @@
+{
+  "name": "react-json-syntax",
+  "version": "0.1.0",
+  "description": "Alternative syntax for React.js",
+  "main": "src/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Krysio/react-json-syntax.git"
+  },
+  "keywords": [
+    "react",
+    "json",
+    "syntax"
+  ],
+  "author": "krzysztof.kozlowski.1992@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Krysio/react-json-syntax/issues"
+  },
+  "homepage": "https://github.com/Krysio/react-json-syntax#readme"
+}
