@@ -1,11 +1,16 @@
 # react-json-syntax
+> An alternative syntax for React.js templates.
+
+[![NPM](https://nodei.co/npm/react-json-syntax.png)](https://nodei.co/npm/react-json-syntax/)
+
+## API
 
 usage:
 ```javascript
 const reactParse = require('react-json-syntax');
 ```
 
-```javascript
+```jsx
 return (
   <tag attribute="value">
     text
